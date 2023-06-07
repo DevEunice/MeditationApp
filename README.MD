@@ -1,6 +1,6 @@
-# [TranquilMind Meditation App](https://umatter.netlify.app/ "U Matter")
+# [TranquilMind Meditation App](https://tranquilmind.netlify.app/ "U Matter")
 
-### [**TranquilMind**](https://umatter.netlify.app/ "U Matter") is a meditation and relaxation app that designed to take you some moment to relax and breathe. TranquilMind mission is to help you find your inner peace and improve your mental health.
+### [**TranquilMind**](https://tranquilmind.netlify.app/ "U Matter") is a meditation and relaxation app that designed to take you some moment to relax and breathe. TranquilMind mission is to help you find your inner peace and improve your mental health.
 
 ## **How can we help you?**
 
